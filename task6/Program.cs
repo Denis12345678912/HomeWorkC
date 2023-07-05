@@ -13,3 +13,7 @@ else if (number % 2 == 1)
 {
     Console.WriteLine("Число нечётное");
 }
+else if (number % 2 == -1)
+{
+    Console.WriteLine("Число нечётное");
+}
